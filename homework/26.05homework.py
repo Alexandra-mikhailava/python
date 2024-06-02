@@ -21,3 +21,5 @@ reversed_sentence = reverse_words(phrase)
 print("Шаг 7: Строка с обратным порядком слов:", reversed_sentence)
 print("Шаг 8: Исходная строка:", phrase)
 
+
+print("Шаг 8: Исходная строка:", phrase)
